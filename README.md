@@ -1,2 +1,2 @@
 # learnteachjava
-teach java while learning
+learning while teaching java
